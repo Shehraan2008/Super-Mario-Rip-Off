@@ -1,0 +1,13 @@
+@import "_global";
+@import "_variables.scss";
+
+canvas {
+  display: block;
+  margin: auto;
+  border: 10px solid white;
+  font-family: "Press Start 2P", cursive;
+}
+
+main {
+  text-align: center;
+}
